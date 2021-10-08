@@ -1,0 +1,44 @@
+html, body, ol, li {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(bckgrd.png);
+    background-repeat: repeat;
+    
+}
+ol {
+    text-align: center;
+    background-color: #3a3636;
+    padding: 10px;
+    background-size: auto;
+    font-family: sans-serif;
+}
+ol li {
+    color: #ffffff;
+    text-align: center;
+    list-style-type: none;
+    font-size: 26px;
+    display: inline;  
+}
+.rightmargin {
+    margin-right: 50px;
+}
+h1 {
+    font-size: 120px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    border: none;
+    padding-bottom: none;
+    margin: 200px auto 0 auto;
+    font-family: "sans-seri", Arial, "Times New Roman";
+}
+h3 {
+    color:#ffffff;
+    font-size: 30px;
+    text-align: center;
+    padding-top: none;
+    margin: 15px 0 15px 0;
+    font-family: sans-serif, Arial, "Times New Roman";
+}
